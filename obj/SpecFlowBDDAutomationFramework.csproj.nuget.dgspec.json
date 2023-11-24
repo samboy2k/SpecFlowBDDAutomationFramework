@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj": {}
+    "C:\\Users\\LENOVO\\Documents\\GitHub\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj": {}
   },
   "projects": {
-    "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj": {
+    "C:\\Users\\LENOVO\\Documents\\GitHub\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\GitHub\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj",
         "projectName": "SpecFlowBDDAutomationFramework",
-        "projectPath": "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj",
-        "packagesPath": "C:\\Users\\Bakkappa N\\.nuget\\packages\\",
-        "outputPath": "E:\\2023\\SpecflowBDDFramework\\Repo\\SpecFlowBDDAutomationFramework\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\SpecFlowBDDAutomationFramework\\SpecFlowBDDAutomationFramework.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\SpecFlowBDDAutomationFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bakkappa N\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,6 +60,10 @@
               "target": "Package",
               "version": "[4.6.0, )"
             },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[119.0.6045.10500, )"
+            },
             "SpecFlow.NUnit": {
               "target": "Package",
               "version": "[3.9.40, )"
@@ -88,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.320\\RuntimeIdentifierGraph.json"
         }
       }
     }
